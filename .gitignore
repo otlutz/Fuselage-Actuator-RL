@@ -1,0 +1,5 @@
+**/__pycache__/
+wandb/
+runs/
+AssemblyGym/envs/FuselageActuators/Recordings/FuselageActuators-v12/FuselageActuators-v12_surrogate_data.zip
+Plots/
